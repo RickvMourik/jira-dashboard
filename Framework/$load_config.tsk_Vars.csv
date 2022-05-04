@@ -1,0 +1,24 @@
+%api_output%;
+%csv_path%;C:\Users\Rick\Documents\mvr\jira dashboard demo eigen server\Temp\api_output2.csv
+%csv_selector%;1
+%id%;PSDT2-111
+%customer%;AS Watson
+%timespend%;0
+%api_mail%;rick.van.mourik@mvr.nl
+%config_path%;C:\Users\Rick\Documents\mvr\jira dashboard demo eigen server\Data\config.csv
+%api_token%;aNQntKedAzdqxUs68w2LD658
+%project_code%;PSDT2
+%queue_code%;170
+%maintaskpath%;C:\Users\Rick\Documents\mvr\jira dashboard demo eigen server
+%database_output%;
+%query%;INSERT INTO [jira table] ([issue code], [organization], [spend time], [pull date]) VALUES ('PSDT2-97', 'Specialized LATAM', '5', '2022-04-28')
+%db_instance%;-1
+%db_name%;jira
+%db_table%;jira table
+%current_date%;2022-04-28
+%date_start%;2022-04-01
+%date_end%;17
+%date_custom%;False
+%db_user%;JiraDashboard
+%db_password%;Cv8NP5HXv]>v]w1&
+%config_tries%;2

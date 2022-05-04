@@ -1,0 +1,25 @@
+%api_output_path%;C:\Users\Rick\Documents\mvr\jira dashboard\Temp\api_output.csv
+%csv_selector%;1
+%id%;
+%customer%;
+%timespend%;
+%jira_api_mail%;rick.van.mourik@mvr.nl
+%config_path%;C:\Users\Rick\Documents\mvr\jira dashboard\Data\config.csv
+%jira_api_token%;aNQntKedAzdqxUs68w2LD658
+%jira_project_code%;PSDT2
+%jira_queue_code%;170
+%maintaskpath%;C:\Users\Rick\Documents\mvr\jira dashboard
+%database_output%;
+%query%;INSERT INTO [JiraDashboard_Test] ([issue code], [organization], [spend time], [pull date]) VALUES ('', '', '', '2022-05-04')
+%db_instance%;mvrsql01.database.windows.net
+%db_name%;Uipath01
+%db_table%;JiraDashboard_Test
+%current_date%;2022-05-04
+%date_start%;2022-01-01
+%date_end%;2022-01-05
+%date_custom%;True
+%db_user%;JiraDashboard
+%db_password%;Cv8NP5HXv]>v]w1&
+%config_tries%;0
+%api_output%;
+%empty%;
