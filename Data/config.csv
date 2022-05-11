@@ -1,17 +1,17 @@
 Name;Value;Description
-Jira_API_Mail;rick.van.mourik@mvr.nl;E-mail of the account used for the Jira API call
-Jira_API_Token;aNQntKedAzdqxUs68w2LD658;API token of the Jira account
-Code_Jira_Project;PSDT2;The code of the Jira project you want to get the issues of
-Code_Jira_Queue;170;The code of the queue you want to get the issues of
+Jira_API_Mail;;E-mail of the account used for the Jira API call
+Jira_API_Token;;API token of the Jira account
+Code_Jira_Project;;The code of the Jira project you want to get the issues of
+Code_Jira_Queue;;The code of the queue you want to get the issues of
 ;;
 API_Output_Path;%maintaskpath%\Temp\api_output.csv;Filepath to the temporary CSV for the api call data
 ;;
-DB_User;JiraDashboard;The username used for the database
-DB_Password;Cv8NP5HXv]>v]w1&;The password used for the database
-DB_Instance;mvrsql01.database.windows.net;The instace/server of the database
-DB_Name;Uipath01;Name of the database to be accessed
-DB_Table;JiraDashboard_Test;Name of the table to be used
+DB_User;;The username used for the database
+DB_Password;;The password used for the database
+DB_Instance;;The instace/server of the database
+DB_Name;;Name of the database to be accessed
+DB_Table;;Name of the table to be used
 ;;
-Date_Use_Custom;True;Use a custom date range instead of first of the month to current day
-Date_Start;2022-01-01;The date to start looking for updated issues use format yyyy-MM-dd (mandatory when using custom dates)
-Date_End;2022-01-05;The date to stop looking for updated issues use format yyyy-MM-dd (optional will default to current date when left empty)
+Date_Use_Custom;False;Use a custom date range instead of first of the month to current day
+Date_Start;;The date to start looking for updated issues use format yyyy-MM-dd (mandatory when using custom dates)
+Date_End;;The date to stop looking for updated issues use format yyyy-MM-dd (optional will default to current date when left empty)
