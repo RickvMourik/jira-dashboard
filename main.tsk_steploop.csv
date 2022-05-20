@@ -1,1 +1,104 @@
-%id%;%customer%;%timespend%
+%id%;%summary%;%assignee%;%reporter%;%status%;%created%;%updated%;%organization%;%timespend%
+PSDT2-136;ProvincieGelderland Read Emails dispatcher problem with closing DocumentsBase;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Aangemaakt;2022-05-20;2022-05-20;;0
+PSDT2-134;Yanmar - Selector update after Oracle update;Jussi Nousiainen;Jussi Nousiainen;Aangemaakt;2022-05-19;2022-05-19;Yanmar;0
+PSDT2-132;yanmar - emails with no excel attachment;;Ann Wilson;Pending;2022-05-17;2022-05-19;Yanmar;0
+PSDT2-125;SpecializedEU - Create supplier, suppliers not created;Andrei Cristea;Ellen Stoltenborg;Work in progress;2022-05-05;2022-05-06;Specialized EU;0
+PSDT2-100;Pleunz - UiPath Executor stopped working on PRD3;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-28;2022-03-29;Pleunz;0
+PSDT2-65;RadboudUMC - Fail add que item;Willemijn Dagevos;Kai Bergin;Gereed;2022-03-07;2022-03-29;RadboudUMC;0
+PSDT2-60;RadboudUMC - verwerken mislukt Vecozo;Willemijn Dagevos;Serge Heuveling;Gereed;2022-03-03;2022-03-03;RadboudUMC;0
+PSDT2-47;RadboudUMC - Vecozo_LogIn failure;Willemijn Dagevos;Kai Bergin;Gereed;2022-02-25;2022-03-09;RadboudUMC;0
+PSDT2-45;"RadboudUMC - ADD item error Vezco bot ";Willemijn Dagevos;Kai Bergin;Opgelost;2022-02-24;2022-03-09;RadboudUMC;0
+PSDT2-37;"RadboudUMC - Robot login error Vecozo ";Willemijn Dagevos;Kai Bergin;Gereed;2022-02-22;2022-02-22;RadboudUMC;0
+PSDT2-31;AS Watson -  mailbox database is temporarily unavailable;Dimitrios Pantazis;Kai Bergin;Gereed;2022-02-18;2022-03-08;AS Watson;0
+PSDT2-22;RadboudUMC - ophalen retourbestanden;Willemijn Dagevos;Serge Heuveling;Gereed;2022-02-15;2022-03-09;RadboudUMC;0
+PSDT2-89;Specialized EU - Change request Create Supplier;Andrei Cristea;Ellen Stoltenborg;Gereed;2022-03-16;2022-04-28;Specialized EU;1500
+PSDT2-104;Yanmar - Shipping documents from day before;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-03-30;2022-04-07;Yanmar;1055
+PSDT2-109;Yanmar - booking wrong items on wrong lines;Jussi Nousiainen;Jochem Gort;Gereed;2022-04-05;2022-04-28;Yanmar;960
+PSDT2-33;Yanmar - DMF Booked analysis and change;Jussi Nousiainen;Jochem Gort;Gereed;2022-02-18;2022-04-28;Yanmar;960
+PSDT2-42;"Yanmar - DHVS ";Andrei Cristea;Jochem Gort;Gereed;2022-02-23;2022-03-22;Yanmar;840
+PSDT2-119;"Specialized Oracle error ";Willemijn Dagevos;Kai Bergin;Gereed;2022-04-29;2022-05-02;;660
+PSDT2-118;SpecializedEU - Update Oracle workflows;Andrei Cristea;Andrei Cristea;Gereed;2022-04-26;2022-04-28;Specialized EU;480
+PSDT2-116;"Provincie Gelderland ReadEmails problem with docbase ";Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-04-20;2022-04-28;Provincie Gelderland;480
+PSDT2-25;Provincie Gelderland - Update in Besluiten;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-02-16;2022-03-08;Provincie Gelderland;480
+PSDT2-19;Yanmar - Read AP invoices failure;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Opgelost;2022-02-11;2022-03-22;Yanmar;480
+PSDT2-9;Provincie Gelderland - Citrix Access;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-02-07;2022-03-08;Provincie Gelderland;480
+PSDT2-107;Yanmar - Vetus process not running;Jussi Nousiainen;Jochem Gort;Gereed;2022-04-01;2022-04-05;Yanmar;420
+PSDT2-117;Yanmar - Unread email;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-04-25;2022-05-04;Yanmar;360
+PSDT2-105;ProvincieGelderland - Create Relation not processed;Jussi Nousiainen;Jussi Nousiainen;Gereed;2022-03-31;2022-04-04;Provincie Gelderland;300
+PSDT2-110;GemeenteDronten - Dronten Dispatcher not able to read one of the forms (IIT);Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-04-07;2022-04-28;Gemeente Dronten;270
+PSDT2-108;ProvincieGelderland - Read email malfunction at prvgld;Jussi Nousiainen;Jussi Nousiainen;Gereed;2022-04-05;2022-04-07;Provincie Gelderland;240
+PSDT2-85;Yanmar - Manitou/ MBF not processed;Dimitrios Pantazis;Ann Wilson;Gereed;2022-03-14;2022-03-22;Yanmar;205
+PSDT2-75;Provincie Gelderland - CV not able to recognize elements;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-08;2022-03-09;Provincie Gelderland;195
+PSDT2-43;Yanmar - Shipping advice YGAFS9 has failed;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-02-23;2022-03-22;Yanmar;195
+PSDT2-129;Yanmar - PDFs not added;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-05-10;2022-05-11;Yanmar;180
+PSDT2-123;Gemeente Dronten - problem with reading form;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-05-04;2022-05-04;Gemeente Dronten;180
+PSDT2-135;Gemeente Dronten - Problem in dispatcher reading files;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-05-20;2022-05-20;;150
+PSDT2-130;New feature suggestion;;Andrei Cristea;Gereed;2022-05-16;2022-05-16;;120
+PSDT2-128;Specialized EU - Password not valid;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-05-09;2022-05-16;Specialized EU;120
+PSDT2-67;Yanmar - Shipping documents;Andrei Cristea;Ann Wilson;Gereed;2022-03-07;2022-04-28;Yanmar;120
+PSDT2-38;Provincie Gelderland - Error when linking company;Dimitrios Pantazis;Henk Wattimury;Gereed;2022-02-22;2022-03-08;Provincie Gelderland;120
+PSDT2-32;"Yanmar - UI element outside screen bounds failure ";Jimme van Stuijvenberg;Kai Bergin;Gereed;2022-02-18;2022-04-28;Yanmar;120
+PSDT2-92;Yanmar - error processing shipping documents;Jussi Nousiainen;Ann Wilson;Gereed;2022-03-21;2022-03-22;Yanmar;106
+PSDT2-102;Yanmar - PreShippingDocuments business exception;Jussi Nousiainen;Ann Wilson;Gereed;2022-03-29;2022-03-29;Yanmar;105
+PSDT2-133;Robot not picking up email;Dimitrios Pantazis;Ingrid Budding;Gereed;2022-05-19;2022-05-19;AS Watson;90
+PSDT2-114;Yanmar - shipping documents not picked by dispatcher;;Ann Wilson;Gereed;2022-04-19;2022-04-19;Yanmar;90
+PSDT2-112;Yanmar - shipping documents not picked from mailbox;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-04-11;2022-04-12;Yanmar;90
+PSDT2-95;Yanmar - Shipping advice not processed;Andrei Cristea;Ann Wilson;Gereed;2022-03-23;2022-04-28;Yanmar;90
+PSDT2-76;Gemeente Dronten - UI element not corresponding a selector failure;Jimme van Stuijvenberg;Jussi Nousiainen;Gereed;2022-03-09;2022-03-29;Gemeente Dronten;90
+PSDT2-59;Pleunz - Power Automate was not able to send messages in Teams;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-02;2022-03-29;Pleunz;90
+PSDT2-49;Provincie Gelderland - Add Queue Items failure;Dimitrios Pantazis;Kai Bergin;Gereed;2022-02-25;2022-03-09;Provincie Gelderland;90
+PSDT2-30;Yanmar - Shipping documents (2) not processed;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-02-17;2022-03-22;Yanmar;90
+PSDT2-20;"Specialized LATAM - VPN investigation ";Dimitrios Pantazis;Kai Bergin;Gereed;2022-02-14;2022-03-23;Specialized LATAM;90
+PSDT2-78;Provincie Gelderland - Computer vision failed to find element;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-09;2022-03-09;Provincie Gelderland;75
+PSDT2-66;RadboudUMC - retour bestanden;Willemijn Dagevos;Serge Heuveling;Gereed;2022-03-07;2022-03-07;RadboudUMC;75
+PSDT2-131;Order was not successful;Dimitrios Pantazis;Ann Wilson;Gereed;2022-05-17;2022-05-17;Yanmar;60
+PSDT2-126;Nothing;Dimitrios Pantazis;Jessyca;Gereed;2022-05-05;2022-05-06;Specialized LATAM;60
+PSDT2-115;Provincie Gelderland - Change Cases failed;Dimitrios Pantazis;e.poortier@gelderland.nl;Gereed;2022-04-19;2022-04-25;Provincie Gelderland;60
+PSDT2-99;Provincie Gelderland - Create Cases PB;Dimitrios Pantazis;Henk Wattimury;Gereed;2022-03-28;2022-03-28;Provincie Gelderland;60
+PSDT2-98;Yanmar - Open Purchase Order;Jussi Nousiainen;angelo_vandervelden@yanmar.com;Gereed;2022-03-28;2022-03-29;Yanmar;60
+PSDT2-90;AS Watson - Element not found;Dimitrios Pantazis;FB Finance;Gereed;2022-03-21;2022-03-21;AS Watson;60
+PSDT2-88;"Specialized EU - Templates not processed ";Andrei Cristea;Ellen Stoltenborg;Gereed;2022-03-16;2022-04-28;Specialized EU;60
+PSDT2-84;Provincie Gelderland - CV not able to find email sender;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-11;2022-03-11;Provincie Gelderland;60
+PSDT2-83;Provincie Gelderland - Informatiezuil Update;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-10;2022-03-10;Provincie Gelderland;60
+PSDT2-64;Provincie Gelderland - Inkooporder failure;Dimitrios Pantazis;Leontien Luisman-Gerritsen;Gereed;2022-03-04;2022-03-08;Provincie Gelderland;60
+PSDT2-61;Specialized LATAM - Journal ID was not found in Oracle;Dimitrios Pantazis;Valentina Guevara;Gereed;2022-03-03;2022-03-03;Specialized LATAM;60
+PSDT2-58;AS Watson - Failed to read emails;Dimitrios Pantazis;Johan van 't Hul;Gereed;2022-03-01;2022-03-08;AS Watson;60
+PSDT2-36;"Provincie Gelderland - Interface change Outlook ";Dimitrios Pantazis;Kai Bergin;Gereed;2022-02-21;2022-03-08;Provincie Gelderland;60
+PSDT2-17;" RadboudUMC_OpslaanRetourbestanden_Dispatcher malfunction";Willemijn Dagevos;Jussi Nousiainen;Gereed;2022-02-10;2022-02-10;RadboudUMC;60
+PSDT2-7;Yanmar - Login failure (Salesforce already logged in);Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-02-07;2022-03-22;Yanmar;60
+PSDT2-29;Yanmar - Yanmar_APInvoiceBooking_Performer failure (BadRequest);Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-02-17;2022-03-22;Yanmar;45
+PSDT2-23;Yanmar - Preshipping documents not processed;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-02-15;2022-03-22;Yanmar;45
+PSDT2-14;Provincie Gelderland - Outlook Change;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-02-10;2022-03-08;Provincie Gelderland;45
+PSDT2-13;Yanmar - Robot didn't proccess an email request;Dimitrios Pantazis;Dimitrios Pantazis;Opgelost;2022-02-07;2022-03-22;Yanmar;45
+PSDT2-44;"Specialized LATAM - Web Adi error ";Dimitrios Pantazis;Valentina Guevara;Gereed;2022-02-23;2022-03-09;Specialized LATAM;40
+PSDT2-124;Web ADI Upload - Recover from error in init state;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-05-05;2022-05-05;Specialized LATAM;30
+PSDT2-120;Web ADI Upload - Not working;Dimitrios Pantazis;Jessyca;Gereed;2022-05-02;2022-05-03;Specialized LATAM;30
+PSDT2-113;Yanmar - system error in Shipping documents;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-04-13;2022-04-14;Yanmar;30
+PSDT2-103;SpecializedEU - VAT attachments not saved;Andrei Cristea;Andrei Cristea;Gereed;2022-03-29;2022-04-28;Specialized EU;30
+PSDT2-101;AS Watson - Oracle Login;Dimitrios Pantazis;FB Finance;Gereed;2022-03-29;2022-03-29;AS Watson;30
+PSDT2-74;"Dopharma - asset not found ";Dimitrios Pantazis;Kai Bergin;Gereed;2022-03-08;2022-03-08;Dopharma;30
+PSDT2-46;Gemeente Dronten - Item not processed;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-02-24;2022-03-03;Gemeente Dronten;30
+PSDT2-41;Yanmar - Oracle credential error;Jimme van Stuijvenberg;Kai Bergin;Gereed;2022-02-22;2022-03-22;Yanmar;30
+PSDT2-40;RadboudUMC-Vezeco retourbestanden;Willemijn Dagevos;Serge Heuveling;Gereed;2022-02-22;2022-02-22;RadboudUMC;30
+PSDT2-39;Dronten - One item was not processed succesfully;Jimme van Stuijvenberg;c.pot@dronten.nl;Gereed;2022-02-22;2022-02-22;Gemeente Dronten;30
+PSDT2-94;Provincie Gelderland - Exception Query;Dimitrios Pantazis;Henk Wattimury;Gereed;2022-03-22;2022-03-24;Provincie Gelderland;20
+PSDT2-87;Provincie Gelderland - Update Citrix Password;Dimitrios Pantazis;Dimitrios Pantazis;Opgelost;2022-03-16;2022-03-21;Provincie Gelderland;20
+PSDT2-127;add CC for WEBADI email notifications - MXR General Ledger Manager;Dimitrios Pantazis;Jessyca;Opgelost;2022-05-05;2022-05-06;Specialized LATAM;15
+PSDT2-122;Web ADI Upload;Dimitrios Pantazis;Jessyca;Gereed;2022-05-03;2022-05-04;Specialized LATAM;15
+PSDT2-121;"change CC for WEBADI email notifications - LA General Ledger Manager ";Dimitrios Pantazis;Valentina Guevara;Opgelost;2022-05-03;2022-05-03;Specialized LATAM;15
+PSDT2-106;Provincie Gelderland - Create Cases;Dimitrios Pantazis;Henk Wattimury;Gereed;2022-04-01;2022-04-01;Provincie Gelderland;15
+PSDT2-96;Provincie Gelderland - Two emails were not send;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-25;2022-03-25;Provincie Gelderland;15
+PSDT2-86;Provincie Gelderland - CV failed to combine the supplier documents;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-15;2022-03-15;Provincie Gelderland;15
+PSDT2-69;Provincie Gelderland - Informatiezuil page didn't load;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-03-07;2022-03-07;Provincie Gelderland;15
+PSDT2-68;Yanmar - Manual Stop failure;Dimitrios Pantazis;Ann Wilson;Gereed;2022-03-07;2022-03-08;Yanmar;15
+PSDT2-51;Yanmar - Salesforce password expried;Dimitrios Pantazis;angelo_vandervelden@yanmar.com;Gereed;2022-02-28;2022-03-22;Yanmar;15
+PSDT2-26;Yanmar - Update Password;Dimitrios Pantazis;Dimitrios Pantazis;Opgelost;2022-02-16;2022-03-09;Yanmar;15
+PSDT2-21;RadboudUMC - Job Failed Radboud Dispatcher;Willemijn Dagevos;Kai Bergin;Gereed;2022-02-15;2022-03-09;RadboudUMC;15
+PSDT2-93;Gemeente Dronten - error processing email;Jussi Nousiainen;Jussi Nousiainen;Gereed;2022-03-21;2022-03-22;Gemeente Dronten;10
+PSDT2-28;Yanmar - Shipping document (1) not processed;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-02-16;2022-03-22;Yanmar;10
+PSDT2-97;Spezialiced LATAM - Teams access;Dimitrios Pantazis;Valentina Guevara;Opgelost;2022-03-25;2022-04-21;Specialized LATAM;5
+PSDT2-91;Provincie Gelderland - Outdated business type self processed by Gelderland;Dimitrios Pantazis;Henk Wattimury;Gereed;2022-03-21;2022-03-21;Provincie Gelderland;5
+PSDT2-62;Specialized LATAM - Access to Service Desk;Dimitrios Pantazis;Valentina Guevara;Opgelost;2022-03-03;2022-03-09;Specialized LATAM;5
+PSDT2-54;"Gemeente Dronten - Element not found Outlook ";Jimme van Stuijvenberg;Kai Bergin;Gereed;2022-02-28;2022-03-09;Gemeente Dronten;5
+PSDT2-24;Gemeente Drontent - Outlook didn't load successfully;Jimme van Stuijvenberg;Kai Bergin;Gereed;2022-02-15;2022-03-09;Gemeente Dronten;5
+PSDT2-111;ASWatson - kwetsbaarheden Spring4Shell;Kai Bergin;FB Finance;Opgelost;2022-04-07;2022-04-28;AS Watson;0
