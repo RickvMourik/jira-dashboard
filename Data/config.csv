@@ -4,7 +4,7 @@ Jira_API_Token;;API token of the Jira account
 Code_Jira_Project;;The code of the Jira project you want to get the issues of
 Code_Jira_Queue;;The code of the queue you want to get the issues of
 ;;
-API_Output_Path;;Filepath to the temporary CSV for the api call data
+API_Output_Path;%maintaskpath%\Temp\api_output.csv;Filepath to the temporary CSV for the api call data
 ;;
 DB_User;;The username used for the database
 DB_Password;;The password used for the database

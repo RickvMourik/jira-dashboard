@@ -1,7 +1,7 @@
 %api_output%;
 %api_output_path%;
 %csv_selector%;1
-%id%;PSDT2-136
+%id%;
 %organization%;
 %timespend%;
 %jira_api_mail%;
@@ -11,20 +11,20 @@
 %jira_queue_code%;
 %maintaskpath%;C:\Users\Rick\Documents\mvr\jira dashboard
 %database_output%;
-%query%;INSERT INTO [jira table] ([issue code], [summary], [assignee], [reporter], [status], [created], [updated], [organization], [spend time], [pull date]) VALUES ('PSDT2-58', 'AS Watson - Failed to read emails', 'Dimitrios Pantazis', 'Johan van 't Hul', 'Gereed', '2022-03-01', '2022-03-08', 'AS Watson', '60', '2022-05-20')
+%query%;
 %db_instance%;
 %db_name%;
 %db_table%;
-%current_date%;2022-05-20
+%current_date%;2022-05-23
 %date_start%;
 %date_end%;
-%date_custom%;
+%date_custom%;False
 %db_user%;
 %db_password%;
 %config_tries%;0
 %status%;
 %summary%;
-%assignee%;Jimme van Stuijvenberg
+%assignee%;
 %reporter%;
-%created%;2022-05-20
+%created%;
 %updated%;

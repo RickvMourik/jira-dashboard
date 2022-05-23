@@ -1,0 +1,24 @@
+﻿%id%;%summary%;%assignee%;%reporter%;%status%;%created%;%updated%;%organization%;%timespend%
+PSDT2-136;ProvincieGelderland Read Emails dispatcher problem with closing DocumentsBase;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Work in progress;2022-05-20;2022-05-23;;0
+PSDT2-134;Yanmar - Selector update after Oracle update;Jussi Nousiainen;Jussi Nousiainen;Aangemaakt;2022-05-19;2022-05-19;Yanmar;0
+PSDT2-125;SpecializedEU - Create supplier, suppliers not created;Andrei Cristea;Ellen Stoltenborg;Work in progress;2022-05-05;2022-05-06;Specialized EU;0
+PSDT2-119;Specialized Oracle error ;Willemijn Dagevos;Kai Bergin;Gereed;2022-04-29;2022-05-02;;660
+PSDT2-117;Yanmar - Unread email;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-04-25;2022-05-04;Yanmar;360
+PSDT2-135;Gemeente Dronten - Problem in dispatcher reading files;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-05-20;2022-05-20;;210
+PSDT2-129;Yanmar - PDFs not added;Jimme van Stuijvenberg;Ann Wilson;Gereed;2022-05-10;2022-05-11;Yanmar;180
+PSDT2-123;Gemeente Dronten - problem with reading form;Jimme van Stuijvenberg;Jimme van Stuijvenberg;Gereed;2022-05-04;2022-05-04;Gemeente Dronten;180
+PSDT2-139;Robot can't log in;;Willemijn Dagevos;Gereed;2022-05-23;2022-05-23;;120
+PSDT2-132;yanmar - emails with no excel attachment;Jimme van Stuijvenberg;Ann Wilson;Pending;2022-05-17;2022-05-23;Yanmar;120
+PSDT2-130;New feature suggestion;;Andrei Cristea;Gereed;2022-05-16;2022-05-16;;120
+PSDT2-128;Specialized EU - Password not valid;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-05-09;2022-05-16;Specialized EU;120
+PSDT2-133;Robot not picking up email;Dimitrios Pantazis;Ingrid Budding;Gereed;2022-05-19;2022-05-19;AS Watson;90
+PSDT2-140;Oracle change;Willemijn Dagevos;Willemijn Dagevos;Work in progress;2022-05-23;2022-05-23;Specialized US;75
+PSDT2-131;Order was not successful;Dimitrios Pantazis;Ann Wilson;Gereed;2022-05-17;2022-05-17;Yanmar;60
+PSDT2-126;Nothing;Dimitrios Pantazis;Jessyca;Gereed;2022-05-05;2022-05-06;Specialized LATAM;60
+PSDT2-137;Oracle Change - Login;Dimitrios Pantazis;Dimitrios Pantazis;Aangemaakt;2022-05-23;2022-05-23;Specialized EU;30
+PSDT2-124;Web ADI Upload - Recover from error in init state;Dimitrios Pantazis;Dimitrios Pantazis;Gereed;2022-05-05;2022-05-05;Specialized LATAM;30
+PSDT2-120;Web ADI Upload - Not working;Dimitrios Pantazis;Jessyca;Gereed;2022-05-02;2022-05-03;Specialized LATAM;30
+PSDT2-138;Oracle Change - Login;Dimitrios Pantazis;Dimitrios Pantazis;Aangemaakt;2022-05-23;2022-05-23;Specialized LATAM;15
+PSDT2-127;add CC for WEBADI email notifications - MXR General Ledger Manager;Dimitrios Pantazis;Jessyca;Opgelost;2022-05-05;2022-05-06;Specialized LATAM;15
+PSDT2-122;Web ADI Upload;Dimitrios Pantazis;Jessyca;Gereed;2022-05-03;2022-05-04;Specialized LATAM;15
+PSDT2-121;change CC for WEBADI email notifications - LA General Ledger Manager ;Dimitrios Pantazis;Valentina Guevara;Opgelost;2022-05-03;2022-05-03;Specialized LATAM;15
